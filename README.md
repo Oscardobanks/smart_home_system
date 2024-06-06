@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+A smart home Flutter project with Firebase database connected.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
